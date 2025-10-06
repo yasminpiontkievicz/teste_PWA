@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "YP",
-  "short_name": "YP",
+  "name": "Yasmin Piontkievicz",
+  "short_name": "yp",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -12,4 +12,5 @@
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
+
 
