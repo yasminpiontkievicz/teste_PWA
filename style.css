@@ -5,11 +5,11 @@
 }
 
 :root {
-    --cor-fundo: #a1c999;
+    --cor-fundo: #b2d6e4;
     --cor-texto: #222;
-    --cor-primaria: #270216;
+    --cor-primaria: #004b7c;
     --cor-secundaria: #0648d6;
-    --cor-borda: #d9e2ef;
+    --cor-borda: #021c41;
 }
 
 html {
@@ -37,7 +37,7 @@ header {
     box-shadow: 0 4px 8px rgb(44, 0, 31);
     border-radius: 18px;
     transition: background 0.2s ease, color 0.2s ease;
-    background: #ffa60086;
+    background: #0e46746b;
 }
 
 a {
@@ -59,7 +59,7 @@ table {
 }
 
 th {
-    background-color: #3908ea;
+    background-color: #628799;
     color: white;
     padding: 10px;
     text-align: center;
@@ -77,5 +77,5 @@ tbody tr:hover{
 }
 
 tbody tr:nth-child(even){
-    background-color: #8408ea;
+    background-color: #001e5f5b;
 }
