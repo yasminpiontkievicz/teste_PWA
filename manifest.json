@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Ego + Aura (UPD 10)",
-  "short_name": "egoaura",
+  "name": "YP",
+  "short_name": "YP",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -12,3 +12,4 @@
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
+
