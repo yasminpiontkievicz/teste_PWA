@@ -1,7 +1,7 @@
 {
     "name": "Ego + Aura (UPD 10)",
-    "short-name": "egoaura",
-    "start-url": "index.html",
+    "short_name": "egoaura",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme-color": "#111111",
@@ -17,4 +17,5 @@
             "type": "image/png" 
         }
     ]
+
 }
